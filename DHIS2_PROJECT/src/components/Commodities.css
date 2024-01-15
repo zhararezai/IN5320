@@ -1,0 +1,21 @@
+h1 {
+  font-size: 18px;
+  font-weight: 450;
+}
+
+.formFields {
+  gap: 20px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.updateContainer {
+  background-color: white;
+  text-align: left;
+}
+
+.submit-button {
+  margin-top: 10px;
+}

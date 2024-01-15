@@ -1,0 +1,44 @@
+/* CSS for layout */
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  .upperContainer {
+    display: flex;
+  }
+  
+  .upperContainer > section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .upperContainer > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  section {
+    flex: 1;
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 20px;
+    font-weight: 450; 
+    text-align: center;
+  }
+  
+ 
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+

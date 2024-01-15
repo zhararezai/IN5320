@@ -1,0 +1,27 @@
+
+
+.input-commodity-data-table {
+    
+    width:6vw;
+}
+.xbutton {
+   
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.vbutton {
+    
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.writeButton {
+   margin-left: 20px;
+    margin-top: 20px;
+}
+
+.div-update-quantity {
+    margin-right: auto;
+    display: flex;
+
+}
