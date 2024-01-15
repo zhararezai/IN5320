@@ -77,7 +77,7 @@ We have also endeavored to ensure that most components are reusable to maintain 
   
 ## MISSING AND/OR NON-OPTIMIZED FUNCTIONALITIES
 
-These are some improvements we would implement if we would have more time:
+These are some improvements we would implement if we would have had more time:
 
 - We assumed that the API resets itself every month; if time permitted, commodities dispense would have been reset.
 - We did not take into account that the user may have wanted to replenish the stock balance of several different commodities at once. 
